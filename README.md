@@ -1,14 +1,14 @@
 # Kalkulator BMI by Evriza Ramadhan Maulana @2025
 ## Tampilan website dapat dilihat melalui https://adhonevriza.github.io/kalkulator-bmi
 
-## Pengertian BMI
+## A. Pengertian BMI
 #### BMI (Body Mass Index) atau yang dalam bahasa Indonesia berarti Indeks Massa Tubuh merupakan ukuran yang dapat digunakan untuk menentukan kategori berat badan seseorang dengan indikator berupa berat badan (dalam kilogram) dan tinggi badan (dalam meter). BMI dapat digunakan untuk mengidentifikasi kategori berat badan, seperti kurus, ideal, kelebihan berat badan, atau obesitas. BMI juga dapat digunakan sebagai alat screening untuk melihat risiko kesehatan tertentu.
-## Klasifikasi BMI
+## B. Klasifikasi BMI
 #### 1. Kurus, apabila hasil BMI berada di bawah 18,5.
 #### 2. Ideal, apabila hasil BMI berada di antara 18,5 sampai kurang dari 25,0.
 #### 3. Kegemukan, apabila hasil BMI berada di antara 25,0 sampai kurang dari 30,0.
 #### 4. Obesitas, apabila hasil BMI berada pada 30,0 atau lebih.
-## Fitur dalam Kalkulator BMI
+## C. Fitur dalam Kalkulator BMI
 #### 1. Form singkat mengenai identitas diri seperti jenis kelamin (memilih satu di antara opsi laki-laki dan perempuan), berat badan (dalam kg), usia (dalam tahun), dan tinggi badan (dalam cm). Adapun Di bagian bawah form terdapat tombol "Hitung BMI" dan "Reset" yang dijelaskan pada poin nomor 5 dan 8.
 #### 2. Di bawah form terdapat informasi singkat mengenai fitur mengenai Kalkulator BMI dan rumus perhitungan BMI.
 #### 3. Apabila dalam pengisian form terdapat satu atau lebih kolom identitas diri yang tidak terisi, maka akan muncul pop-up peringatan yang meminta pengguna untuk mengisi seluruh bagian form yang tersedia.
