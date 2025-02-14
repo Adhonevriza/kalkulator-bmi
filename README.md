@@ -1,4 +1,6 @@
 # Kalkulator BMI by Evriza Ramadhan Maulana @2025
+## Tampilan website dapat dilihat melalui https://adhonevriza.github.io/kalkulator-bmi
+
 ## Pengertian BMI
 #### BMI (Body Mass Index) atau yang dalam bahasa Indonesia berarti Indeks Massa Tubuh merupakan ukuran yang dapat digunakan untuk menentukan kategori berat badan seseorang dengan indikator berupa berat badan (dalam kilogram) dan tinggi badan (dalam meter). BMI dapat digunakan untuk mengidentifikasi kategori berat badan, seperti kurus, ideal, kelebihan berat badan, atau obesitas. BMI juga dapat digunakan sebagai alat screening untuk melihat risiko kesehatan tertentu.
 ## Klasifikasi BMI
