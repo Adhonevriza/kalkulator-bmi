@@ -69,14 +69,14 @@ function displayBMI(bmi, genderElement, weight, height, age) {
     }
     
     // Ideal
-    else if (bmi >= 18.5 && bmi < 24.9) {
+    else if (bmi >= 18.5 && bmi < 25.0) {
         category = "Berat Badan Ideal";
         nilai = "Hasil BMI berada di antara 18 dan 25";
         explanation = "Anda berada dalam kategori normal (ideal). Cara terbaik untuk mempertahankan berat badan adalah mengatur dan mempertahankan pola makanan yang dikonsumsi dan melakukan kegiatan olahraga. Jika BMI Anda berada dalam kategori ini, maka Anda dianjurkan untuk mempertahankan berat badan yang ideal ini.";
     }
     
     // Kegemukan
-    else if (bmi >= 25 && bmi < 29.9) {
+    else if (bmi >= 25 && bmi < 30.0) {
         document.querySelector(".container-penyakit").style.display = 'block';
         penyakit_1 = "Diabetes";
         penyakit_2 = "Hipertensi";
