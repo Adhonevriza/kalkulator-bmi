@@ -26,4 +26,4 @@
 ###### A. Nilai-nilai yang diisikan dalam Identitas diri pengguna dikembalikan ke kondisi semula dan pilihan jenis kelamin pengguna kembali ke kondisi semula
 ###### B. Informasi mengenai tampilan hasil BMI (sebagaimana yang dijelaskan pada poin nomor 5) dikembalikan ke kondisi semula (tidak ditampilkan).
 
-Jika Anda memiliki saran atau feedback, jangan ragu untuk menghubungi saya melalui direct messages via LinkedIn: https://www.linkedin.com/in/evriza-ramadhan-maulana dan Email: adhonevriza@gmail.com
+## Jika Anda memiliki saran atau feedback, jangan ragu untuk menghubungi saya melalui direct messages via LinkedIn: https://www.linkedin.com/in/evriza-ramadhan-maulana dan Email: adhonevriza@gmail.com
